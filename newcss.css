@@ -1,0 +1,18 @@
+ .q{
+       margin-left: 10%;
+    }
+    .g{
+      margin-left: 30%;
+  border:2px solid black;
+width: 50%;
+ }
+    .t{
+      padding: 1%;
+    }
+    .s{
+      padding: 5%;
+    }
+    body{
+  background-image: url(bgm.png);
+  background-repeat: no-repeat;
+}

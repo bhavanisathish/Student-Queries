@@ -1,0 +1,60 @@
+.body
+   {
+    overflow: hidden;
+   }
+      .c{
+        padding-top: 2%;
+         float: left;
+         width: 50%;
+         padding-left: 22%;
+             }
+             .d{
+         float: right;
+           padding-top: 2%;
+
+         width: 50%;
+         padding-left: 3%;
+         padding-right: 20%;
+             }
+             .k{
+
+              color: white;
+              margin-top: 0%;
+              margin-left: 29%;
+             }
+             .o{
+              padding: 10%;  
+             }
+     body{
+      background-image: url(homecontainer.jpg);
+      position: relative;
+     }
+       hr{
+        border:1px solid black;
+      }
+      *{
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+
+    padding: 0;
+   overflow: hidden;
+ 
+}
+li{
+    float: left;
+  
+}
+li a {
+    display: block;
+    color: white;
+ 
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ccc;
+}
